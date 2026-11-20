@@ -296,6 +296,14 @@ Captured from the emulator while running the experiments above.
 
 The app on first launch: [docs/media/01-initial.png](docs/media/01-initial.png).
 
+### Demo video
+
+The rotation story end to end, with the log cleared before each test: server on A passes, server rotated to B passes with no app change, "A only" fails against B, and rogue key C is blocked.
+
+![Rotation demo](docs/media/rotation.gif)
+
+Full quality: [docs/media/rotation.mp4](docs/media/rotation.mp4)
+
 ### Capturing more
 
 ```bash
